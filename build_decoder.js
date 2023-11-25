@@ -1,6 +1,6 @@
 const fs = require("fs");
-const fullTable = require("./table2.json");
-const verifiedTable = require("./table.json");
+const fullTable = require("./table2_fix.json");
+const verifiedTable = require("./table_fix.json");
 
 const full = process.argv[2]?.toUpperCase() == "TRUE" || false;
 console.log(full ? "writing complete decoder" : "writing verified decoder");
