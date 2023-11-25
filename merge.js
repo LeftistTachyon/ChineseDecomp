@@ -24,7 +24,7 @@ process.stdout.write("done\n");
 
 process.stdout.write("fixing... ");
 for (const fixR of fix) {
-  const badIdx = bad.find((r) => fixR.Component == r.Component);
+  const badIdx = bad.findIndex((r) => fixR.Component == r.Component);
   if (badIdx !== -1) {
     // console.log(`fixed ${fixR.Component} (${JSON.stringify(fixR)})!`);
     bad[badIdx] = fixR;
@@ -32,10 +32,12 @@ for (const fixR of fix) {
 }
 process.stdout.write("done\n");
 
-// console.log(
+// console.log(n
 //   "駡:",
 //   bad.find((r) => r.Component == "駡")
 // );
+
+// console.log(bad.filter((r) => r.Component === "駡"));
 
 process.stdout.write("outputting to file... ");
 const outStr = stringify(bad, { header: true });

@@ -13,9 +13,9 @@ for (const [key, value] of Object.entries(table).sort(
   (a, b) => b[1].length - a[1].length
 )) {
   if (invTable[value]) {
-    console.log(
-      `COLLISION DETECTED: ${key} and ${invTable[value]} both map to ${value}. Using old value`
-    );
+    // console.log(
+    //   `COLLISION DETECTED: ${key} and ${invTable[value]} both map to ${value}. Using old value`
+    // );
     if (collisions[value]) {
       collisions[value].add(key);
     } else {
@@ -31,8 +31,10 @@ const numColls = Object.keys(collisions).length;
 console.log(`done (${numColls} collisions)`);
 if (numColls) {
   console.log(collisions);
-  fs.writeFileSync("collisions.json", JSON.stringify(collisions, null, 2));
-  console.log("wrote all collisions to collisions.json");
+
+  const collisionsFile = full ? "collisions2.json" : "collisions.json";
+  fs.writeFileSync(collisionsFile, JSON.stringify(collisions, null, 2));
+  console.log(`wrote all ${numColls} collisions to ${collisionsFile}`);
 }
 
 process.stdout.write("saving to file... ");

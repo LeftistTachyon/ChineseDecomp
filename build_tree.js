@@ -47,7 +47,7 @@ function getComponent(c) {
   }
 
   // console.log(c, c.LeftComponent);
-  if (c.Component == "駡") console.log(c);
+  // if (c.Component == "駡") console.log(c);
   let output = "";
   for (const ch of c.LeftComponent + c.RightComponent) {
     if (ch == "*" || ch == "?") continue; // special garbage case

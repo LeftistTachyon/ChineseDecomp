@@ -411,7 +411,7 @@ Component,Strokes,LeftComponent,RightComponent
 𡗗,5,𡗗,*
 丕,5,不,一
 𠀐,5,中,一
-丛,5,人,一
+丛,5,人人,一
 旦,5,日,一
 未,5,木,一
 末,5,木,一
@@ -896,7 +896,7 @@ Component,Strokes,LeftComponent,RightComponent
 伔,6,亻,冗
 尽,6,尺,冫
 凫,6,乌,几
-𡵂,6,山,几
+𡵂,6,山冖,几
 肌,6,月,几
 机,6,木,几
 玑,6,王,几
@@ -1471,7 +1471,7 @@ Component,Strokes,LeftComponent,RightComponent
 冷,7,冫,令
 似,7,亻,以
 克,7,古,儿
-売,7,士,儿
+売,7,士冖,儿
 児,7,旧,儿
 皃,7,白,儿
 見,7,目,儿
@@ -1522,7 +1522,7 @@ Component,Strokes,LeftComponent,RightComponent
 抌,7,扌,冘
 沈,7,氵,冘
 佟,7,亻,冬
-壳,7,士,几
+壳,7,士冖,几
 矶,7,石,几
 秃,7,禾,几
 竌,7,立,几
@@ -1576,12 +1576,12 @@ Component,Strokes,LeftComponent,RightComponent
 劭,7,召,力
 劮,7,失,力
 努,7,奴,力
-労,7,小,力
+労,7,小冖,力
 男,7,田,力
 劰,7,白,力
 劯,7,石,力
 穷,7,穴,力
-劳,7,艹,力
+劳,7,艹冖,力
 饬,7,飤,力
 苏,7,艹,办
 伽,7,亻,加
@@ -1606,7 +1606,7 @@ Component,Strokes,LeftComponent,RightComponent
 抣,7,扌,匀
 汮,7,氵,匀
 佨,7,亻,包
-壱,7,士,匕
+壱,7,士冖,匕
 疕,7,疒,匕
 皀,7,白,匕
 吪,7,口,化
@@ -1671,7 +1671,7 @@ Component,Strokes,LeftComponent,RightComponent
 纮,7,纟,厷
 闳,7,门,厷
 佉,7,亻,去
-𠬶,7,彐,又
+𠬶,7,彐冖,又
 杈,7,木,叉
 昅,7,日,及
 极,7,木,及
@@ -1721,7 +1721,7 @@ Component,Strokes,LeftComponent,RightComponent
 卣,7,卜,囙
 伵,7,亻,四
 坓,7,井,土
-坐,7,人,土
+坐,7,人人,土
 坖,7,元,土
 坌,7,分,土
 𡉼,7,升,土
@@ -1784,7 +1784,7 @@ Component,Strokes,LeftComponent,RightComponent
 妥,7,爫,女
 妝,7,爿,女
 伮,7,亻,奴
-孛,7,十,子
+孛,7,十冖,子
 斈,7,文,子
 㫗,7,日,子
 杍,7,木,子
@@ -2519,7 +2519,7 @@ Component,Strokes,LeftComponent,RightComponent
 终,8,纟,冬
 苳,8,艹,冬
 凭,8,任,几
-咒,8,口,几
+咒,8,口口,几
 凯,8,岂,几
 籶,8,米,几
 虮,8,虫,几
@@ -2628,7 +2628,7 @@ Component,Strokes,LeftComponent,RightComponent
 诓,8,讠,匡
 枢,8,木,区
 籵,8,米,十
-茕,8,艹,卂
+茕,8,艹冖,卂
 瓩,8,瓦,千
 秊,8,禾,千
 竏,8,立,千
@@ -2695,7 +2695,7 @@ Component,Strokes,LeftComponent,RightComponent
 阹,8,阝,去
 变,8,亦,又
 叔,8,尗,又
-受,8,爫,又
+受,8,爫冖,又
 取,8,耳,又
 臤,8,臣,又
 衩,8,衤,叉
@@ -2806,9 +2806,9 @@ Component,Strokes,LeftComponent,RightComponent
 卥,8,卜,囪*
 垈,8,代,土
 坴,8,圥,土
-坣,8,小,土
+坣,8,小冖,土
 里,8,田,土
-茔,8,艹,土
+茔,8,艹冖,土
 钍,8,钅,土
 坠,8,队,土
 垄,8,龙,土
@@ -2875,7 +2875,7 @@ Component,Strokes,LeftComponent,RightComponent
 侫,8,亻,妄
 孠,8,司,子
 孥,8,奴,子
-学,8,小,子
+学,8,小冖,子
 孧,8,幼,子
 矷,8,石,子
 季,8,禾,子
@@ -2934,7 +2934,7 @@ Component,Strokes,LeftComponent,RightComponent
 炖,8,火,屯
 岳,8,丘,山
 岱,8,代,山
-峃,8,小,山
+峃,8,小冖,山
 疝,8,疒,山
 秈,8,禾,山
 甽,8,田,川
@@ -2955,7 +2955,7 @@ Component,Strokes,LeftComponent,RightComponent
 爸,8,父,巴
 帒,8,代,巾
 帑,8,奴,巾
-帚,8,彐,巾
+帚,8,彐冖,巾
 帛,8,白,巾
 帘,8,穴,巾
 昁,8,日,巿
@@ -3018,7 +3018,7 @@ Component,Strokes,LeftComponent,RightComponent
 钐,8,钅,彡
 忠,8,中,心
 忢,8,五,心
-怂,8,人,心
+怂,8,人人,心
 念,8,今,心
 忩,8,公,心
 忿,8,分,心
@@ -3114,7 +3114,7 @@ Component,Strokes,LeftComponent,RightComponent
 询,8,讠,旬
 曶,8,勿,曰
 冐,8,冃,月
-肻,8,卜,月
+肻,8,卜冖,月
 肾,8,収,月
 肩,8,戸,月
 明,8,日,月
@@ -3626,8 +3626,8 @@ Component,Strokes,LeftComponent,RightComponent
 竽,9,竹,于
 紆,9,糹,于
 虶,9,虫,于
-咢,9,口,亏
-尝,9,小,云
+咢,9,口口,亏
+尝,9,小冖,云
 眃,9,目,云
 秐,9,禾,云
 畊,9,田,井
@@ -4307,7 +4307,7 @@ Component,Strokes,LeftComponent,RightComponent
 砘,9,石,屯
 窀,9,穴,屯
 钝,9,钅,屯
-㖾,9,口,屰
+㖾,9,口口,屰
 㡿,9,广,屰
 逆,9,辶,屰
 峦,9,亦,山
@@ -4342,10 +4342,10 @@ Component,Strokes,LeftComponent,RightComponent
 疤,9,疒,巴
 皅,9,白,巴
 钯,9,钅,巴
-帯,9,丗,巾
+帯,9,丗冖,巾
 帟,9,亦,巾
-帝,9,六,巾
-带,9,卅,巾
+帝,9,六冖,巾
+带,9,卅冖,巾
 帤,9,如,巾
 帠,9,臼,巾
 帣,9,龹,巾
@@ -4354,7 +4354,7 @@ Component,Strokes,LeftComponent,RightComponent
 浉,9,氵,师
 狮,9,犭,师
 俙,9,亻,希
-衎,9,彳,干
+衎,9,彳,干彳
 竿,9,竹,干
 虷,9,虫,干
 胓,9,月,平
@@ -4512,14 +4512,14 @@ Component,Strokes,LeftComponent,RightComponent
 柋,9,代,木
 架,9,加,木
 枽,9,卋,木
-栄,9,小,木
+栄,9,小冖,木
 染,9,氿,木
 某,9,甘,木
 果,9,田,木
 柔,9,矛,木
 䂞,9,石,木
 穼,9,穴,木
-荣,9,艹,木
+荣,9,艹冖,木
 亲,9,立,朩
 昧,9,日,未
 祙,9,礻,未
@@ -4590,12 +4590,12 @@ Component,Strokes,LeftComponent,RightComponent
 柢,9,木,氐
 牴,9,牜,氐
 珉,9,王,民
-泶,9,小,水
+泶,9,小冖,水
 泉,9,白,水
 泵,9,石,水
 砅,9,石,水
-荥,9,艹,水
-衍,9,彳,氵
+荥,9,艹冖,水
+衍,9,彳,氵彳
 昹,9,日,永
 脉,9,月,永
 栐,9,木,永
@@ -4607,7 +4607,7 @@ Component,Strokes,LeftComponent,RightComponent
 炱,9,台,火
 疢,9,疒,火
 秋,9,禾,火
-荧,9,艹,火
+荧,9,艹冖,火
 钬,9,钅,火
 炰,9,包,灬
 点,9,占,灬
@@ -4620,9 +4620,9 @@ Component,Strokes,LeftComponent,RightComponent
 砑,9,石,牙
 穿,9,穴,牙
 牮,9,代,牛
-牵,9,大,牛
+牵,9,大冖,牛
 窂,9,穴,牛
-荦,9,艹,牛
+荦,9,艹冖,牛
 哞,9,口,牟
 恈,9,忄,牟
 洠,9,氵,牟
@@ -4860,7 +4860,7 @@ Component,Strokes,LeftComponent,RightComponent
 俔,9,亻,見
 覌,9,又,見
 觇,9,占,见
-觉,9,小,见
+觉,9,小冖,见
 砚,9,石,见
 訄,9,九,言
 信,9,亻,言
@@ -4889,7 +4889,7 @@ Component,Strokes,LeftComponent,RightComponent
 軍,9,冖,車
 厙,9,厂,車
 砗,9,石,车
-荤,9,艹,车
+荤,9,艹冖,车
 厗,9,厂,辛
 侲,9,亻,辰
 哒,9,口,达
@@ -5035,7 +5035,7 @@ Component,Strokes,LeftComponent,RightComponent
 病,10,疒,丙
 眪,10,目,丙
 窉,10,穴,丙
-壶,10,士,业
+壶,10,士冖,业
 𦚦,10,月,丞
 唡,10,口,两
 翀,10,羽,中
@@ -5114,7 +5114,7 @@ Component,Strokes,LeftComponent,RightComponent
 倞,10,亻,京
 凉,10,冫,京
 谅,10,讠,京
-珡,10,王,人
+珡,10,王王,人
 閃,10,門,人
 閄,10,門,人
 笒,10,竹,今
@@ -5168,10 +5168,10 @@ Component,Strokes,LeftComponent,RightComponent
 倫,10,亻,侖
 候,10,亻,侯
 軏,10,車,兀
-衏,10,彳,元
+衏,10,彳,元彳
 笎,10,竹,元
 蚖,10,虫,元
-党,10,小,兄
+党,10,小冖,兄
 眖,10,目,兄
 竞,10,立,兄
 珫,10,王,充
@@ -5283,7 +5283,7 @@ Component,Strokes,LeftComponent,RightComponent
 剔,10,易,刂
 剒,10,昔,刂
 剡,10,炎,刂
-班,10,王,刂
+班,10,王,刂王
 剢,10,豖,刂
 釗,10,金,刂
 剕,10,非,刂
@@ -5399,7 +5399,7 @@ Component,Strokes,LeftComponent,RightComponent
 觙,10,角,及
 訯,10,言,及
 趿,10,足,及
-爱,10,爫,友
+爱,10,爫冖,友
 聂,10,耳,双
 粄,10,米,反
 舨,10,舟,反
@@ -5931,14 +5931,14 @@ Component,Strokes,LeftComponent,RightComponent
 紋,10,糹,文
 虔,10,虍,文
 蚊,10,虫,文
-斚,10,厸,斗
+斚,10,厸冖,斗
 料,10,米,斗
 紏,10,糹,斗
 蚪,10,虫,斗
 紤,10,糹,斤
 蚚,10,虫,斤
 旂,10,㫃,斤
-旁,10,六,方
+旁,10,六冖,方
 紡,10,糹,方
 舫,10,舟,方
 蚄,10,虫,方
@@ -6001,7 +6001,7 @@ Component,Strokes,LeftComponent,RightComponent
 桑,10,叒,木
 桇,10,如,木
 案,10,安,木
-栞,10,干,木
+栞,10,干干,木
 栥,10,次,木
 柴,10,此,木
 臬,10,自,木
@@ -6132,7 +6132,7 @@ Component,Strokes,LeftComponent,RightComponent
 逤,10,辶,沙
 菃,10,艹,洰
 烮,10,列,火
-烎,10,干,火
+烎,10,干干,火
 烕,10,戌,火
 倐,10,攸,火
 烫,10,汤,火
@@ -6161,7 +6161,7 @@ Component,Strokes,LeftComponent,RightComponent
 毪,10,毛,牟
 哰,10,口,牢
 浶,10,氵,牢
-哭,10,口,犬
+哭,10,口口,犬
 紎,10,糹,犬
 臭,10,自,犬
 祓,10,示,犮
@@ -6181,7 +6181,7 @@ Component,Strokes,LeftComponent,RightComponent
 铉,10,钅,玄
 玺,10,尔,玉
 砡,10,石,玉
-莹,10,艹,玉
+莹,10,艹冖,玉
 钰,10,钅,玉
 紝,10,糹,王
 蚟,10,虫,王
@@ -6267,7 +6267,7 @@ Component,Strokes,LeftComponent,RightComponent
 涘,10,氵,矣
 逘,10,辶,矣
 倁,10,亻,知
-𥑟,10,士,石
+𥑟,10,士冖,石
 砮,10,奴,石
 袥,10,衤,石
 砻,10,龙,石
@@ -6285,7 +6285,7 @@ Component,Strokes,LeftComponent,RightComponent
 粊,10,比,米
 毩,10,毛,米
 氣,10,气,米
-索,10,十,糸
+索,10,十冖,糸
 紧,10,収,糸
 紥,10,扎,糸
 紊,10,文,糸
@@ -6317,7 +6317,7 @@ Component,Strokes,LeftComponent,RightComponent
 斋,10,文,而
 胹,10,月,而
 栭,10,木,而
-耸,10,人,耳
+耸,10,人人,耳
 斊,10,文,耳
 栮,10,木,耳
 珥,10,王,耳
@@ -6503,7 +6503,7 @@ Component,Strokes,LeftComponent,RightComponent
 莗,10,艹,車
 連,10,辶,車
 陣,10,阝,車
-晕,10,日,车
+晕,10,日冖,车
 垶,10,土,辛
 宰,10,宀,辛
 屖,10,尸,辛
@@ -6610,11 +6610,11 @@ Component,Strokes,LeftComponent,RightComponent
 鸮,10,号,鸟
 鸳,10,夗,鸟
 鸯,10,央,鸟
-鸴,10,小,鸟
+鸴,10,小冖,鸟
 鸱,10,氐,鸟
 鸭,10,甲,鸟
 窎,10,穴,鸟
-莺,10,艹,鸟
+莺,10,艹冖,鸟
 唛,10,口,麦
 脐,10,月,齐
 眬,10,目,龙
@@ -6679,7 +6679,7 @@ Component,Strokes,LeftComponent,RightComponent
 飣,11,食,丁
 閆,11,門,三
 叄,11,𠫯,三
-梺,11,木,下
+梺,11,木木,下
 閇,11,門,下
 雫,11,雨,下
 羞,11,羊,丑
@@ -6712,7 +6712,7 @@ Component,Strokes,LeftComponent,RightComponent
 紸,11,糹,主
 蛀,11,虫,主
 镹,11,镸,久
-椘,11,木,之
+椘,11,木木,之
 笮,11,竹,乍
 舴,11,舟,乍
 蚱,11,虫,乍
@@ -6731,7 +6731,7 @@ Component,Strokes,LeftComponent,RightComponent
 雩,11,雨,亏
 転,11,車,云
 酝,11,酉,云
-壸,11,士,亚
+壸,11,士冖,亚
 痖,11,疒,亚
 铔,11,钅,亚
 啞,11,口,亞
@@ -6775,7 +6775,7 @@ Component,Strokes,LeftComponent,RightComponent
 蚹,11,虫,付
 笩,11,竹,代
 蚮,11,虫,代
-衑,11,彳,令
+衑,11,彳,令彳
 笭,11,竹,令
 紷,11,糹,令
 羚,11,羊,令
@@ -6900,7 +6900,7 @@ Component,Strokes,LeftComponent,RightComponent
 笗,11,竹,冬
 終,11,糹,冬
 飢,11,食,几
-梵,11,木,凡
+梵,11,木木,凡
 釩,11,金,凡
 處,11,虍,処
 訩,11,言,凶
@@ -7127,7 +7127,7 @@ Component,Strokes,LeftComponent,RightComponent
 硈,11,石,吉
 秸,11,禾,吉
 袺,11,衤,吉
-常,11,小,吊
+常,11,小冖,吊
 铞,11,钅,吊
 痌,11,疒,同
 眮,11,目,同
@@ -7137,7 +7137,7 @@ Component,Strokes,LeftComponent,RightComponent
 眳,11,目,名
 铭,11,钅,名
 稆,11,禾,吕
-营,11,艹,吕
+营,11,艹冖,吕
 铝,11,钅,吕
 桾,11,木,君
 珺,11,王,君
@@ -7220,8 +7220,8 @@ Component,Strokes,LeftComponent,RightComponent
 埾,11,取,土
 堂,11,尚,土
 堑,11,斩,土
-堃,11,方,土
-埜,11,木,土
+堃,11,方方,土
+埜,11,木木,土
 堏,11,枋,土
 埿,11,泥,土
 烾,11,炎,土
@@ -7272,7 +7272,7 @@ Component,Strokes,LeftComponent,RightComponent
 绫,11,纟,夌
 菱,11,艹,夌
 陵,11,阝,夌
-梦,11,木,夕
+梦,11,木木,夕
 釸,11,金,夕
 够,11,句,多
 痑,11,疒,多
@@ -7281,7 +7281,7 @@ Component,Strokes,LeftComponent,RightComponent
 袳,11,衤,多
 掖,11,扌,夜
 液,11,氵,夜
-𡘽,11,木,大
+𡘽,11,木木,大
 釱,11,金,大
 奜,11,非,大
 軚,11,車,太
@@ -7351,10 +7351,10 @@ Component,Strokes,LeftComponent,RightComponent
 婯,11,丽,女
 娶,11,取,女
 婱,11,弦,女
-婪,11,木,女
+婪,11,木木,女
 婆,11,波,女
 婜,11,臤,女
-婴,11,贝,女
+婴,11,贝贝,女
 釹,11,金,女
 娿,11,阿,女
 婓,11,非,女
@@ -7519,7 +7519,7 @@ Component,Strokes,LeftComponent,RightComponent
 烴,11,火,巠
 牼,11,牜,巠
 釭,11,金,工
-衐,11,彳,巨
+衐,11,彳,巨彳
 詎,11,言,巨
 距,11,足,巨
 鱾,11,鱼,己
@@ -7527,7 +7527,7 @@ Component,Strokes,LeftComponent,RightComponent
 豝,11,豕,巴
 跁,11,足,巴
 梔,11,木,巵
-帶,11,卌,巾
+帶,11,卌冖,巾
 晞,11,日,希
 脪,11,月,希
 桸,11,木,希
@@ -7600,7 +7600,7 @@ Component,Strokes,LeftComponent,RightComponent
 猕,11,犭,弥
 娹,11,女,弦
 惤,11,忄,弦
-彗,11,丰,彐
+彗,11,丰丰,彐
 雪,11,雨,彐
 裆,11,衤,当
 铛,11,钅,当
@@ -7816,7 +7816,7 @@ Component,Strokes,LeftComponent,RightComponent
 笨,11,竹,本
 絊,11,糹,本
 缽,11,缶,本
-術,11,彳,朮
+術,11,彳,朮彳
 絉,11,糹,术
 硃,11,石,朱
 秼,11,禾,朱
@@ -7965,7 +7965,7 @@ Component,Strokes,LeftComponent,RightComponent
 翇,11,羽,犮
 蛂,11,虫,犮
 梑,11,木,狄
-衒,11,彳,玄
+衒,11,彳,玄彳
 絃,11,糹,玄
 舷,11,舟,玄
 蚿,11,虫,玄
@@ -7994,7 +7994,7 @@ Component,Strokes,LeftComponent,RightComponent
 烳,11,火,甫
 辅,11,车,甫
 桶,11,木,甬
-㽞,11,口,田
+㽞,11,口口,田
 畣,11,合,田
 畨,11,米,田
 細,11,糹,田
@@ -8096,7 +8096,7 @@ Component,Strokes,LeftComponent,RightComponent
 眯,11,目,米
 紮,11,札,糸
 累,11,田,糸
-萦,11,艹,糸
+萦,11,艹冖,糸
 窑,11,穴,缶
 惘,11,忄,罔
 菵,11,艹,罔
@@ -8236,11 +8236,11 @@ Component,Strokes,LeftComponent,RightComponent
 掳,11,扌,虏
 谑,11,讠,虐
 遞,11,辶,虒
-蛍,11,小,虫
+蛍,11,小冖,虫
 蚻,11,札,虫
 蛋,11,疋,虫
 痋,11,疒,虫
-萤,11,艹,虫
+萤,11,艹冖,虫
 裇,11,衤,血
 裄,11,衤,行
 袋,11,代,衣
@@ -8341,7 +8341,7 @@ Component,Strokes,LeftComponent,RightComponent
 捦,11,扌,金
 淦,11,氵,金
 菳,11,艹,金
-衔,11,彳,钅
+衔,11,彳,钅彳
 帳,11,巾,長
 張,11,弓,長
 悵,11,忄,長
@@ -8522,7 +8522,7 @@ Component,Strokes,LeftComponent,RightComponent
 鈣,12,金,丐
 鈕,12,金,丑
 靵,12,革,丑
-畳,12,田,且
+畳,12,田冖,且
 詛,12,言,且
 豠,12,豕,且
 趄,12,走,且
@@ -8552,7 +8552,7 @@ Component,Strokes,LeftComponent,RightComponent
 絚,12,糹,亙
 椏,12,木,亞
 氬,12,气,亞
-壺,12,土,亞*
+壺,12,土冖,亞*
 極,12,木,亟
 殛,12,歹,亟
 鈧,12,金,亢
@@ -8579,8 +8579,8 @@ Component,Strokes,LeftComponent,RightComponent
 湸,12,氵,亮
 湻,12,氵,亯
 媇,12,女,亲
-棽,12,木,今
-琴,12,王,今
+棽,12,木木,今
+琴,12,王王,今
 鈐,12,金,今
 靲,12,革,今
 詂,12,言,付
@@ -8671,8 +8671,8 @@ Component,Strokes,LeftComponent,RightComponent
 渝,12,氵,兪
 逾,12,辶,兪
 鈆,12,金,公
-巽,12,己,共
-衖,12,彳,共
+巽,12,己己,共
+衖,12,彳,共彳
 粠,12,米,共
 粪,12,米,共
 舼,12,舟,共
@@ -8707,8 +8707,8 @@ Component,Strokes,LeftComponent,RightComponent
 蒄,12,艹,冠
 凕,12,冫,冥
 寒,12,𡨄,冫
-棾,12,林,几
-焭,12,炏,几
+棾,12,林冖,几
+焭,12,炏冖,几
 凱,12,豈,几
 髠,12,髟,几
 凿,12,丵,凵
@@ -8722,9 +8722,9 @@ Component,Strokes,LeftComponent,RightComponent
 剳,12,荅,刂
 剴,12,豈,刂
 韌,12,韋,刃
-掰,12,手,分
-棼,12,木,分
-椕,12,木,分
+掰,12,手,分手
+棼,12,木木,分
+椕,12,木,分木
 鈖,12,金,分
 雰,12,雨,分
 趋,12,走,刍
@@ -8745,7 +8745,7 @@ Component,Strokes,LeftComponent,RightComponent
 湔,12,氵,前
 葥,12,艹,前
 勛,12,員,力
-勞,12,炏,力
+勞,12,炏冖,力
 勜,12,翁,力
 募,12,莫,力
 跏,12,足,加
@@ -8890,7 +8890,7 @@ Component,Strokes,LeftComponent,RightComponent
 蛒,12,虫,各
 衉,12,血,各
 啙,12,此,吅
-搿,12,扌,合
+搿,12,扌,合扌
 答,12,竹,合
 粭,12,米,合
 給,12,糹,合
@@ -8900,7 +8900,7 @@ Component,Strokes,LeftComponent,RightComponent
 結,12,糹,吉
 聐,12,耳,吉
 蛣,12,虫,吉
-衕,12,彳,同
+衕,12,彳,同彳
 筒,12,竹,同
 粡,12,米,同
 絧,12,糹,同
@@ -8910,13 +8910,13 @@ Component,Strokes,LeftComponent,RightComponent
 痞,12,疒,否
 痦,12,疒,吾
 铻,12,钅,吾
-営,12,小,呂
-棠,12,小,呆
+営,12,小冖,呂
+棠,12,小冖,呆
 睈,12,目,呈
 程,12,禾,呈
 裎,12,衤,呈
 锃,12,钅,呈
-喾,12,小,告
+喾,12,小冖,告
 皓,12,白,告
 硞,12,石,告
 窖,12,穴,告
@@ -8986,7 +8986,7 @@ Component,Strokes,LeftComponent,RightComponent
 堻,12,津,土
 堕,12,陏,土
 軽,12,車,圣
-街,12,彳,圭
+街,12,彳,圭彳
 筀,12,竹,圭
 絓,12,糹,圭
 蛙,12,虫,圭
@@ -9176,7 +9176,7 @@ Component,Strokes,LeftComponent,RightComponent
 棡,12,木,岡
 焵,12,火,岡
 犅,12,牜,岡
-喌,12,口,州
+喌,12,口口,州
 絒,12,糹,州
 痙,12,疒,巠
 硜,12,石,巠
@@ -9184,7 +9184,7 @@ Component,Strokes,LeftComponent,RightComponent
 筑,12,竹,巩
 傞,12,亻,差
 䙴,12,䙲,巳
-琶,12,王,巴
+琶,12,王王,巴
 鈀,12,金,巴
 靶,12,革,巴
 鲃,12,鱼,巴
@@ -9247,7 +9247,7 @@ Component,Strokes,LeftComponent,RightComponent
 葊,12,艹,弇
 骮,12,骨,弋
 弑,12,杀,式
-𢏝,12,弓,弓
+𢏝,12,弓,弓弓
 鈟,12,金,弔
 鈏,12,金,引
 靷,12,革,引
@@ -9327,7 +9327,7 @@ Component,Strokes,LeftComponent,RightComponent
 揯,12,扌,恆
 搄,12,扌,恒
 湉,12,氵,恬
-戞,12,百,戈
+戞,12,百冖,戈
 鈛,12,金,戈
 越,12,走,戉
 幾,12,𢆶,戍
@@ -9388,12 +9388,12 @@ Component,Strokes,LeftComponent,RightComponent
 敬,12,苟,攵
 傚,12,亻,效
 獓,12,犭,敖
-斑,12,王,文
+斑,12,王,文王
 鈫,12,金,文
 閔,12,門,文
 雯,12,雨,文
 斐,12,非,文
-斝,12,吅,斗
+斝,12,吅冖,斗
 斞,12,臾,斗
 鈄,12,金,斗
 閗,12,門,斗
@@ -9421,7 +9421,7 @@ Component,Strokes,LeftComponent,RightComponent
 厩,12,厂,既
 普,12,並,日
 暂,12,斩,日
-𣈅,12,木,日
+𣈅,12,木木,日
 晳,12,析,日
 智,12,知,日
 鈤,12,金,日
@@ -9498,8 +9498,8 @@ Component,Strokes,LeftComponent,RightComponent
 缊,12,纟,昷
 蒀,12,艹,昷
 湿,12,氵,显
-替,12,夫,曰
-朁,12,旡,曰
+替,12,夫夫,曰
+朁,12,旡旡,曰
 筁,12,竹,曲
 粬,12,米,曲
 蛐,12,虫,曲
@@ -9532,7 +9532,7 @@ Component,Strokes,LeftComponent,RightComponent
 椠,12,斩,木
 椞,12,析,木
 渠,12,洰,木
-琹,12,王,木
+琹,12,王王,木
 椝,12,规,木
 鈢,12,金,木
 閑,12,門,木
@@ -9628,7 +9628,7 @@ Component,Strokes,LeftComponent,RightComponent
 葮,12,艹,段
 畮,12,田,每
 痗,12,疒,每
-琵,12,王,比
+琵,12,王王,比
 鈚,12,金,比
 筚,12,竹,毕
 毵,12,参,毛
@@ -9662,10 +9662,10 @@ Component,Strokes,LeftComponent,RightComponent
 阔,12,门,活
 蒎,12,艹,派
 焤,12,府,火
-焸,12,日,火
+焸,12,日日,火
 焽,12,明,火
 煚,12,昛,火
-焚,12,木,火
+焚,12,木木,火
 煑,12,者,火
 鈥,12,金,火
 焛,12,門,火
@@ -9701,7 +9701,7 @@ Component,Strokes,LeftComponent,RightComponent
 猨,12,犭,爰
 缓,12,纟,爰
 萲,12,艹,爰
-棥,12,木,爻
+棥,12,木,爻木
 牚,12,尚,牙
 釾,12,金,牙
 閕,12,門,牙
@@ -9785,7 +9785,7 @@ Component,Strokes,LeftComponent,RightComponent
 廃,12,广,発
 溌,12,氵,発
 貃,12,豸,白
-弼,12,弓,百
+弼,12,弓,百弓
 粨,12,米,百
 絔,12,糸,百
 蛨,12,虫,百
@@ -9891,7 +9891,7 @@ Component,Strokes,LeftComponent,RightComponent
 趇,12,走,立
 嵜,12,山,竒
 傡,12,亻,竝
-粥,12,弓,米
+粥,12,弓,米弓
 粢,12,次,米
 䊆,12,臼,米
 粟,12,覀,米
@@ -10004,7 +10004,7 @@ Component,Strokes,LeftComponent,RightComponent
 絬,12,糹,舌
 聒,12,耳,舌
 蛞,12,虫,舌
-舜,12,爫,舛
+舜,12,爫冖,舛
 粦,12,米,舛
 蛝,12,虫,艮
 硠,12,石,良
@@ -10062,7 +10062,7 @@ Component,Strokes,LeftComponent,RightComponent
 葽,12,艹,要
 覘,12,占,見
 覗,12,司,見
-覚,12,小,見
+覚,12,小冖,見
 覙,12,尔,見
 覕,12,必,見
 硯,12,石,見
@@ -10081,7 +10081,7 @@ Component,Strokes,LeftComponent,RightComponent
 储,12,亻,诸
 硲,12,石,谷
 裕,12,衤,谷
-壹,12,土,豆
+壹,12,土冖,豆
 痘,12,疒,豆
 登,12,癶,豆
 短,12,矢,豆
@@ -10104,7 +10104,7 @@ Component,Strokes,LeftComponent,RightComponent
 圎,12,囗,貟
 媍,12,女,負
 萯,12,艹,負
-赍,12,夾,贝
+赍,12,夾冖,贝
 赏,12,尚,贝
 赓,12,庚,贝
 溅,12,氵,贱
@@ -10123,7 +10123,7 @@ Component,Strokes,LeftComponent,RightComponent
 匑,12,勹,躬
 軰,12,北,車
 硨,12,石,車
-葷,12,艹,車
+葷,12,艹冖,車
 喗,12,口,軍
 堚,12,土,軍
 媈,12,女,軍
@@ -10131,8 +10131,8 @@ Component,Strokes,LeftComponent,RightComponent
 揮,12,扌,軍
 渾,12,氵,軍
 運,12,辶,軍
-辇,12,夫,车
-翚,12,羽,车
+辇,12,夫夫,车
+翚,12,羽冖,车
 辈,12,非,车
 傤,12,亻,载
 辜,12,古,辛
@@ -10157,7 +10157,7 @@ Component,Strokes,LeftComponent,RightComponent
 廊,12,广,郎
 蓈,12,艹,郎
 掷,12,扌,郑
-蒏,12,艹,酉
+蒏,12,艹冖,酉
 媨,12,女,酋
 崷,12,山,酋
 揂,12,扌,酋
@@ -10292,7 +10292,7 @@ Component,Strokes,LeftComponent,RightComponent
 鹇,12,闲,鸟
 鼋,12,元,黾
 蛴,12,虫,齐
-弻,12,弓,㐁
+弻,12,弓,㐁弓
 疏,12,疋,㐬
 硫,12,石,㐬
 裗,12,衤,㐬
@@ -10343,7 +10343,7 @@ Component,Strokes,LeftComponent,RightComponent
 黽,13,黽,*
 鼎,13,鼎,*
 鼠,13,鼠,*
-叠,13,叒,且
+叠,13,叒冖,且
 鉏,13,金,且
 靻,13,革,且
 龃,13,齿,且
@@ -10371,7 +10371,7 @@ Component,Strokes,LeftComponent,RightComponent
 踭,13,足,争
 骬,13,骨,于
 貆,13,豸,亘
-壼,13,士,亞
+壼,13,士冖,亞
 瘂,13,疒,亞
 稏,13,禾,亞
 詨,13,言,交
@@ -10441,7 +10441,7 @@ Component,Strokes,LeftComponent,RightComponent
 蜕,13,虫,兌
 絻,13,糹,免
 睨,13,目,兒
-蒬,13,艹,兔
+蒬,13,艹冖,兔
 魞,13,魚,入
 詮,13,言,全
 跧,13,足,全
@@ -10550,7 +10550,7 @@ Component,Strokes,LeftComponent,RightComponent
 椻,13,木,匽
 傴,13,亻,區
 準,13,淮,十
-煢,13,炏,卂
+煢,13,炏冖,卂
 鉡,13,金,半
 靽,13,革,半
 痺,13,疒,卑
@@ -10658,7 +10658,7 @@ Component,Strokes,LeftComponent,RightComponent
 虞,13,虍,吳
 筽,13,竹,吴
 蜈,13,虫,吴
-衙,13,彳,吾
+衙,13,彳,吾彳
 筥,13,竹,呂
 絽,13,糹,呂
 楶,13,次,呆
@@ -10719,7 +10719,7 @@ Component,Strokes,LeftComponent,RightComponent
 塣,13,浧,土
 塰,13,海,土
 塗,13,涂,土
-塋,13,炏,土
+塋,13,炏冖,土
 墓,13,莫,土
 塦,13,陣,土
 觟,13,角,圭
@@ -10795,7 +10795,7 @@ Component,Strokes,LeftComponent,RightComponent
 溪,13,氵,奚
 蒵,13,艹,奚
 媐,13,巸,女
-嫈,13,炏,女
+嫈,13,炏冖,女
 媻,13,般,女
 綏,13,糹,妥
 褄,13,衤,妻
@@ -10888,7 +10888,7 @@ Component,Strokes,LeftComponent,RightComponent
 搱,13,扌,屖
 遟,13,辶,屖
 飩,13,食,屯
-嵤,13,炏,山
+嵤,13,炏冖,山
 嵞,13,余,屾
 碙,13,石,岡
 碋,13,石,岢
@@ -11004,7 +11004,7 @@ Component,Strokes,LeftComponent,RightComponent
 愁,13,秋,心
 愆,13,衍,心
 意,13,音,心
-瑟,13,王,必
+瑟,13,王王,必
 鉍,13,金,必
 閟,13,門,必
 綛,13,糹,忍
@@ -11353,7 +11353,7 @@ Component,Strokes,LeftComponent,RightComponent
 筩,13,竹,甬
 蛹,13,虫,甬
 當,13,尚,田
-榃,13,木,田
+榃,13,木木,田
 鈿,13,金,田
 雷,13,雨,田
 鈾,13,金,由
@@ -11362,7 +11362,7 @@ Component,Strokes,LeftComponent,RightComponent
 閘,13,門,甲
 鉮,13,金,申
 電,13,雨,电
-嫐,13,女,男
+嫐,13,女,男女
 舅,13,臼,男
 虜,13,虍,男
 蜔,13,虫,甸
@@ -11397,7 +11397,7 @@ Component,Strokes,LeftComponent,RightComponent
 蓄,13,艹,畜
 溭,13,氵,畟
 兾,13,丷,異
-楚,13,木,疋
+楚,13,木木,疋
 睫,13,目,疌
 嫉,13,女,疾
 愱,13,忄,疾
@@ -11467,7 +11467,7 @@ Component,Strokes,LeftComponent,RightComponent
 缜,13,纟,真
 蒖,13,艹,真
 阗,13,门,真
-楙,13,木,矛
+楙,13,木,矛木
 雺,13,雨,矛
 鉃,13,金,矢
 彂,13,业,矤
@@ -11477,7 +11477,7 @@ Component,Strokes,LeftComponent,RightComponent
 硻,13,臤,石
 鉐,13,金,石
 雼,13,雨,石
-禁,13,木,示
+禁,13,木木,示
 蒜,13,艹,祘
 僄,13,亻,票
 傺,13,亻,祭
@@ -11765,7 +11765,7 @@ Component,Strokes,LeftComponent,RightComponent
 腻,13,月,贰
 跫,13,巩,足
 輂,13,共,車
-暈,13,日,車
+暈,13,日冖,車
 蛼,13,虫,車
 暉,13,日,軍
 腪,13,月,軍
@@ -11825,7 +11825,7 @@ Component,Strokes,LeftComponent,RightComponent
 歱,13,止,重
 煄,13,火,重
 碒,13,石,金
-蓥,13,艹,金
+蓥,13,艹冖,金
 滏,13,氵,釜
 痮,13,疒,長
 简,13,竹,间
@@ -11947,7 +11947,7 @@ Component,Strokes,LeftComponent,RightComponent
 溾,13,氵,鬼
 蒐,13,艹,鬼
 隗,13,阝,鬼
-鲎,13,小,鱼
+鲎,13,小冖,鱼
 鳩,13,九,鳥
 𠌵,13,亻,鳥
 鳰,13,入,鳥
@@ -12016,7 +12016,7 @@ Component,Strokes,LeftComponent,RightComponent
 腦,13,月,𡿺
 瑙,13,王,𡿺
 隓,13,阝,𢀡
-愛,13,爫,𢖻
+愛,13,爫冖,𢖻
 賎,13,貝,𢦑
 践,13,足,𢦑
 媺,13,女,𢼸
@@ -12069,7 +12069,7 @@ Component,Strokes,LeftComponent,RightComponent
 髰,14,髟,世
 銩,14,金,丢
 酽,14,酉,严
-嘂,14,吕,丩
+嘂,14,吕,丩吕
 馽,14,馬,中
 賗,14,貝,串
 飳,14,食,主
@@ -12093,7 +12093,7 @@ Component,Strokes,LeftComponent,RightComponent
 綡,14,糹,京
 翞,14,羽,京
 碠,14,石,亭
-僰,14,朿,人
+僰,14,朿朿,人
 骱,14,骨,介
 魀,14,鬼,介
 銋,14,金,任
@@ -12652,7 +12652,7 @@ Component,Strokes,LeftComponent,RightComponent
 愬,14,朔,心
 慇,14,殷,心
 慂,14,涌,心
-愳,14,目,心
+愳,14,目目,心
 態,14,能,心
 慐,14,貢,心
 愨,14,𣪊,心
@@ -12781,7 +12781,7 @@ Component,Strokes,LeftComponent,RightComponent
 概,14,木,既
 廐,14,广,旣
 漑,14,氵,旣
-暜,14,立,日
+暜,14,立立,日
 暮,14,莫,日
 馹,14,馬,日
 暦,14,𠩵,日
@@ -12845,8 +12845,8 @@ Component,Strokes,LeftComponent,RightComponent
 僭,14,亻,朁
 谮,14,讠,朁
 膂,14,旅,月
-膋,14,炏,月
-甧,14,生,月
+膋,14,炏冖,月
+甧,14,生生,月
 膏,14,高,月
 銪,14,金,有
 鲔,14,鱼,有
@@ -12856,7 +12856,7 @@ Component,Strokes,LeftComponent,RightComponent
 榦,14,倝,木
 槩,14,旣,木
 槊,14,朔,木
-榮,14,炏,木
+榮,14,炏冖,木
 槃,14,般,木
 槀,14,高,木
 髤,14,髟,木
@@ -12875,8 +12875,8 @@ Component,Strokes,LeftComponent,RightComponent
 箖,14,竹,林
 綝,14,糹,林
 𧇃,14,虍,林
-彚,14,彐,果
-彙,14,彑,果
+彚,14,彐冖,果
+彙,14,彑冖,果
 稞,14,禾,果
 窠,14,穴,果
 裸,14,衤,果
@@ -12928,7 +12928,7 @@ Component,Strokes,LeftComponent,RightComponent
 熂,14,火,氣
 犔,14,牜,氣
 漐,14,執,水
-滎,14,炏,水
+滎,14,炏冖,水
 觩,14,角,求
 賕,14,貝,求
 觨,14,角,汞
@@ -12941,8 +12941,8 @@ Component,Strokes,LeftComponent,RightComponent
 奫,14,大,淵
 蔳,14,艹,清
 熃,14,務,火
-熒,14,炏,火
-煛,14,目,火
+熒,14,炏冖,火
+煛,14,目目,火
 熋,14,能,火
 熙,14,巸,灬
 罴,14,罢,灬
@@ -12975,7 +12975,7 @@ Component,Strokes,LeftComponent,RightComponent
 摤,14,扌,爽
 漺,14,氵,爽
 蝂,14,虫,版
-犖,14,炏,牛
+犖,14,炏冖,牛
 犛,14,𠩺,牛
 鉾,14,金,牟
 撁,14,扌,牽
@@ -12998,7 +12998,7 @@ Component,Strokes,LeftComponent,RightComponent
 摦,14,扌,瓠
 甄,14,垔,瓦
 甂,14,扁,瓦
-甆,14,玄,瓦
+甆,14,玄玄,瓦
 甃,14,秋,瓦
 瘎,14,疒,甚
 碪,14,石,甚
@@ -13064,7 +13064,7 @@ Component,Strokes,LeftComponent,RightComponent
 碷,14,石,盾
 睸,14,目,眉
 镅,14,钅,眉
-睿,14,卜,眘
+睿,14,卜冖,眘
 槇,14,木,眞
 槙,14,木,真
 瑱,14,王,真
@@ -13148,7 +13148,7 @@ Component,Strokes,LeftComponent,RightComponent
 骡,14,马,累
 蔠,14,艹,終
 潍,14,氵,维
-罂,14,贝,缶
+罂,14,贝贝,缶
 網,14,糹,罔
 蝄,14,虫,罔
 箩,14,竹,罗
@@ -13218,7 +13218,7 @@ Component,Strokes,LeftComponent,RightComponent
 蔵,14,茂,臣
 暞,14,日,臬
 殠,14,歹,臭
-臺,14,吉,至
+臺,14,吉冖,至
 銍,14,金,至
 閰,14,門,臼
 蜭,14,虫,臽
@@ -13289,7 +13289,7 @@ Component,Strokes,LeftComponent,RightComponent
 憈,14,忄,虚
 蝁,14,亞,虫
 蜝,14,其,虫
-蝅,14,天,虫
+蝅,14,天天,虫
 蜜,14,宓,虫
 蜤,14,析,虫
 蜰,14,肥,虫
@@ -13401,7 +13401,7 @@ Component,Strokes,LeftComponent,RightComponent
 銮,14,亦,金
 銐,14,列,金
 銎,14,巩,金
-銜,14,彳,金
+銜,14,彳,金彳
 銞,14,旬,金
 鈭,14,此,金
 粻,14,米,長
@@ -13426,7 +13426,7 @@ Component,Strokes,LeftComponent,RightComponent
 廕,14,广,陰
 蔭,14,艹,陰
 蔯,14,艹,陳
-𨾴,14,口,隹
+𨾴,14,口口,隹
 雒,14,各,隹
 雑,14,杂,隹
 雌,14,此,隹
@@ -13534,7 +13534,7 @@ Component,Strokes,LeftComponent,RightComponent
 稯,14,禾,㚇
 慕,14,莫,㣺
 箍,14,竹,㧜
-槖,14,士,䂞
+槖,14,士冖,䂞
 暚,14,日,䍃
 榣,14,木,䍃
 熎,14,火,䍃
@@ -13566,7 +13566,7 @@ Component,Strokes,LeftComponent,RightComponent
 瑥,14,王,𥁕
 算,14,竹,𥃲
 蔑,14,艹,𥅛
-衘,14,彳,𦈢
+衘,14,彳,𦈢彳
 榻,14,木,𦐇
 禢,14,礻,𦐇
 嘆,14,口,𦰩
@@ -13865,9 +13865,9 @@ Component,Strokes,LeftComponent,RightComponent
 蝮,15,虫,复
 夥,15,果,多
 夦,15,甚,多
-器,15,吕,大
+器,15,吕,大吕
 樊,15,棥,大
-奭,15,百,大
+奭,15,百,大百
 鴃,15,鳥,夬
 駚,15,馬,央
 醃,15,酉,奄
@@ -13996,7 +13996,7 @@ Component,Strokes,LeftComponent,RightComponent
 漅,15,氵,巢
 缫,15,纟,巢
 隟,15,阝,巢
-噐,15,吕,工
+噐,15,吕,工吕
 鮔,15,魚,巨
 瘥,15,疒,差
 磋,15,石,差
@@ -14382,13 +14382,13 @@ Component,Strokes,LeftComponent,RightComponent
 擜,15,扌,献
 蕕,15,艹,猶
 膟,15,月,率
-瑩,15,炏,玉
+瑩,15,炏冖,玉
 徵,15,微,王
 噖,15,口,琴
 潖,15,氵,琶
 槬,15,木,瓠
 甉,15,兼,瓦
-甇,15,炏,瓦
+甇,15,炏冖,瓦
 甈,15,臬,瓦
 糂,15,米,甚
 蕤,15,艹,甤
@@ -14490,7 +14490,7 @@ Component,Strokes,LeftComponent,RightComponent
 遹,15,辶,矞
 踟,15,足,知
 磐,15,般,石
-禜,15,炏,示
+禜,15,炏冖,示
 膘,15,月,票
 標,15,木,票
 熛,15,火,票
@@ -14596,7 +14596,7 @@ Component,Strokes,LeftComponent,RightComponent
 緭,15,糹,胃
 膚,15,虍,胃
 蝟,15,虫,胃
-衚,15,彳,胡
+衚,15,彳,胡彳
 箶,15,竹,胡
 糊,15,米,胡
 蝴,15,虫,胡
@@ -14710,12 +14710,12 @@ Component,Strokes,LeftComponent,RightComponent
 嶑,15,山,象
 潒,15,氵,象
 賚,15,來,貝
-賛,15,夫,貝
-賫,15,夾,貝
+賛,15,夫夫,貝
+賫,15,夾冖,貝
 賨,15,宗,貝
 賞,15,尚,貝
 賡,15,庚,貝
-質,15,斤,貝
+質,15,斤斤,貝
 賢,15,臤,貝
 鋇,15,金,貝
 閴,15,門,貝
@@ -14759,8 +14759,8 @@ Component,Strokes,LeftComponent,RightComponent
 銵,15,金,身
 窮,15,穴,躬
 匔,15,勹,躳
-輦,15,夫,車
-翬,15,羽,車
+輦,15,夫夫,車
+翬,15,羽冖,車
 閳,15,門,車
 輩,15,非,車
 輝,15,光,軍
@@ -14772,7 +14772,7 @@ Component,Strokes,LeftComponent,RightComponent
 鋅,15,金,辛
 嫴,15,女,辜
 僻,15,亻,辟
-辳,15,木,辰
+辳,15,木木,辰
 鋠,15,金,辰
 震,15,雨,辰
 褥,15,衤,辱
@@ -14804,7 +14804,7 @@ Component,Strokes,LeftComponent,RightComponent
 嶏,15,屵,配
 踩,15,足,采
 貍,15,豸,里
-衝,15,彳,重
+衝,15,彳,重彳
 箽,15,竹,重
 緟,15,糹,重
 蝩,15,虫,重
@@ -14882,7 +14882,7 @@ Component,Strokes,LeftComponent,RightComponent
 諽,15,言,革
 韑,15,光,韋
 韏,15,关,韋
-衛,15,彳,韋
+衛,15,彳,韋彳
 緯,15,糹,韋
 齑,15,齐,韭
 頝,15,交,頁
@@ -14921,7 +14921,7 @@ Component,Strokes,LeftComponent,RightComponent
 飺,15,此,食
 篒,15,竹,食
 蕵,15,艹,飧
-衜,15,彳,首
+衜,15,彳,首彳
 艏,15,舟,首
 駕,15,加,馬
 駌,15,夗,馬
@@ -15019,7 +15019,7 @@ Component,Strokes,LeftComponent,RightComponent
 銽,15,金,𠯑
 廛,15,㢆,𡉀
 聨,15,耳,𢇂
-憂,15,百,𢖻
+憂,15,百冖,𢖻
 德,15,彳,𢛳
 澘,15,氵,𣈅
 篐,15,竹,𣐝
@@ -15080,7 +15080,7 @@ Component,Strokes,LeftComponent,RightComponent
 鴏,16,鳥,代
 魿,16,魚,令
 鹷,16,鹵,令
-薎,16,苜*,伐
+薎,16,苜*冖,伐
 髹,16,髟,休
 餘,16,食,余
 錸,16,金,來
@@ -15124,17 +15124,17 @@ Component,Strokes,LeftComponent,RightComponent
 螟,16,虫,冥
 鮗,16,魚,冬
 鴤,16,鳥,冬
-辧,16,辡,刀
+辧,16,辡,刀辡
 蒯,16,萠,刂
 劐,16,蒦,刂
-辨,16,辛,刂
+辨,16,辛,刂辛
 劓,16,鼻,刂
 劑,16,齊,刂
 劒,16,僉,刃
 劔,16,僉,刄
 黺,16,黹,分
 勳,16,熏,力
-辦,16,辡,力
+辦,16,辡,力辡
 踴,16,足,勇
 簕,16,竹,勒
 磡,16,石,勘
@@ -15177,7 +15177,7 @@ Component,Strokes,LeftComponent,RightComponent
 襂,16,衤,參
 叡,16,睿,又
 錣,16,金,叕
-樷,16,木,取
+樷,16,木木,取
 鋷,16,金,取
 鲰,16,鱼,取
 閿,16,門,受
@@ -15311,7 +15311,7 @@ Component,Strokes,LeftComponent,RightComponent
 瘿,16,疒,婴
 薅,16,艹,媷
 孹,16,辟,子
-學,16,𦥯,子
+學,16,𦥯冖,子
 馟,16,香,孚
 餑,16,食,孛
 馞,16,香,孛
@@ -15551,7 +15551,7 @@ Component,Strokes,LeftComponent,RightComponent
 燝,16,火,景
 璟,16,王,景
 橸,16,木,晶
-㬱,16,先,曰
+㬱,16,先先,曰
 髷,16,髟,曲
 麯,16,麥,曲
 謁,16,言,曷
@@ -15760,7 +15760,7 @@ Component,Strokes,LeftComponent,RightComponent
 輴,16,車,盾
 褱,16,衣,眔
 縝,16,糹,眞
-衠,16,彳,真
+衠,16,彳,真彳
 噮,16,口,睘
 圜,16,囗,睘
 嬛,16,女,睘
@@ -15850,7 +15850,7 @@ Component,Strokes,LeftComponent,RightComponent
 澯,16,氵,粲
 薒,16,艹,粲
 徽,16,微,糸
-縈,16,炏,糸
+縈,16,炏冖,糸
 縏,16,般,糸
 縣,16,県,系
 縤,16,糹,素
@@ -15861,7 +15861,7 @@ Component,Strokes,LeftComponent,RightComponent
 镙,16,钅,累
 縢,16,月,絭
 橼,16,木,缘
-罃,16,炏,缶
+罃,16,炏冖,缶
 嶵,16,山,罪
 濖,16,氵,署
 薯,16,艹,署
@@ -15967,7 +15967,7 @@ Component,Strokes,LeftComponent,RightComponent
 噳,16,口,虞
 澞,16,氵,虞
 螒,16,倝,虫
-螢,16,炏,虫
+螢,16,炏冖,虫
 螚,16,能,虫
 螌,16,般,虫
 蟇,16,莫,虫
@@ -15980,7 +15980,7 @@ Component,Strokes,LeftComponent,RightComponent
 濁,16,氵,蜀
 獨,16,犭,蜀
 薥,16,艹,蜀
-褮,16,炏,衣
+褮,16,炏冖,衣
 褧,16,耿,衣
 褩,16,般,衣
 諘,16,言,表
@@ -16016,7 +16016,7 @@ Component,Strokes,LeftComponent,RightComponent
 擔,16,扌,詹
 澹,16,氵,詹
 薝,16,艹,詹
-辩,16,辡,讠
+辩,16,辡,讠辡
 餖,16,食,豆
 螘,16,虫,豈
 澧,16,氵,豊
@@ -16199,7 +16199,7 @@ Component,Strokes,LeftComponent,RightComponent
 薞,16,艹,飱
 攁,16,扌,養
 駦,16,关,馬
-駡,16,口,馬
+駡,16,口口,馬
 篤,16,竹,馬
 螞,16,虫,馬
 褭,16,衣,馬
@@ -16227,7 +16227,7 @@ Component,Strokes,LeftComponent,RightComponent
 鴦,16,央,鳥
 鴩,16,失,鳥
 鴑,16,奴,鳥
-鴬,16,小,鳥
+鴬,16,小冖,鳥
 鴢,16,幼,鳥
 鴘,16,弁,鳥
 鴓,16,必,鳥
@@ -16285,11 +16285,11 @@ Component,Strokes,LeftComponent,RightComponent
 薓,16,艹,𣹰
 薫,16,艹,𤋱
 窹,16,穴,𤕻
-𤴡,16,十,𤴛
+𤴡,16,十冖,𤴛
 縕,16,糸,𥁕
 蝹,16,虫,𥁕
 瘸,16,疒,𦙲
-衟,16,彳,𩠐
+衟,16,彳,𩠐彳
 龠,17,龠,*
 噽,17,喜,丕
 駵,17,馬,丣
@@ -16369,7 +16369,7 @@ Component,Strokes,LeftComponent,RightComponent
 鮚,17,魚,吉
 鮦,17,魚,同
 鮜,17,魚,后
-營,17,炏,呂
+營,17,炏冖,呂
 餢,17,食,咅
 鍓,17,金,咠
 鍔,17,金,咢
@@ -16455,8 +16455,8 @@ Component,Strokes,LeftComponent,RightComponent
 礇,17,石,奧
 嬮,17,厭,女
 嬱,17,漸,女
-嬲,17,男,女
-嬰,17,貝,女
+嬲,17,男,女男
+嬰,17,貝貝,女
 骽,17,骨,妥
 餧,17,食,委
 簍,17,竹,婁
@@ -16895,7 +16895,7 @@ Component,Strokes,LeftComponent,RightComponent
 藄,17,艹,綦
 濰,17,氵,維
 嬵,17,女,綿
-辫,17,辡,纟
+辫,17,辡,纟辡
 罄,17,殸,缶
 檌,17,木,罪
 藅,17,艹,罰
@@ -17016,13 +17016,13 @@ Component,Strokes,LeftComponent,RightComponent
 覯,17,冓,見
 覭,17,冥,見
 覫,17,旁,見
-覮,17,炏,見
+覮,17,炏冖,見
 覬,17,豈,見
 麲,17,麥,見
 觳,17,𣪊,角
 檞,17,木,解
 徾,17,微,言
-謍,17,炏,言
+謍,17,炏冖,言
 鍧,17,金,訇
 鞫,17,革,訇
 曕,17,日,詹
@@ -17094,7 +17094,7 @@ Component,Strokes,LeftComponent,RightComponent
 篰,17,竹,部
 膷,17,月,鄉
 醤,17,将,酉
-醟,17,炏,酉
+醟,17,炏冖,酉
 鞧,17,革,酋
 鍾,17,金,重
 鍪,17,敄,金
@@ -17167,7 +17167,7 @@ Component,Strokes,LeftComponent,RightComponent
 顀,17,隹,頁
 顈,17,糸,頃
 嶺,17,山,領
-檒,17,木,風
+檒,17,木木,風
 闏,17,門,風
 餥,17,非,食
 謞,17,言,高
@@ -17194,7 +17194,7 @@ Component,Strokes,LeftComponent,RightComponent
 鴳,17,安,鳥
 鵇,17,年,鳥
 鵧,17,并,鳥
-鵆,17,彳,鳥
+鵆,17,彳,鳥彳
 鴲,17,旨,鳥
 鴸,17,朱,鳥
 鴜,17,此,鳥
@@ -17212,7 +17212,7 @@ Component,Strokes,LeftComponent,RightComponent
 鹫,17,就,鸟
 鹪,17,焦,鸟
 鹬,17,矞,鸟
-麉,17,干,鹿
+麉,17,干干,鹿
 簏,17,竹,鹿
 麊,17,米,鹿
 螰,17,虫,鹿
@@ -17221,7 +17221,7 @@ Component,Strokes,LeftComponent,RightComponent
 嬤,17,女,麼
 嬷,17,女,麽
 懡,17,忄,麽
-黉,17,小,黃
+黉,17,小冖,黃
 簧,17,竹,黄
 蟥,17,虫,黄
 黛,17,代,黑
@@ -17504,7 +17504,7 @@ Component,Strokes,LeftComponent,RightComponent
 璷,18,王,敷
 擻,18,扌,數
 藪,18,艹,數
-辬,18,辡,文
+辬,18,辡,文辡
 斷,18,㡭,斤
 簛,18,竹,斯
 蟖,18,虫,斯
@@ -17541,7 +17541,7 @@ Component,Strokes,LeftComponent,RightComponent
 鎙,18,金,朔
 檿,18,厭,木
 鬆,18,髟,松
-檾,18,炏,林
+檾,18,炏冖,林
 餜,18,食,果
 韖,18,韋,柔
 餷,18,食,查
@@ -17577,7 +17577,7 @@ Component,Strokes,LeftComponent,RightComponent
 薻,18,艹,漅
 藩,18,艹,潘
 藫,18,艹,潭
-燹,18,豕,火
+燹,18,豕豕,火
 齌,18,齊,火
 燾,18,壽,灬
 鎢,18,金,烏
@@ -17664,7 +17664,7 @@ Component,Strokes,LeftComponent,RightComponent
 謻,18,言,移
 癛,18,疒,稟
 瀔,18,氵,穀
-瞾,18,目,空
+瞾,18,目目,空
 藭,18,艹,窮
 疃,18,田,童
 瞳,18,目,童
@@ -17720,7 +17720,7 @@ Component,Strokes,LeftComponent,RightComponent
 霡,18,雨,脉
 簲,18,竹,脾
 廫,18,广,膠
-嚚,18,吕,臣
+嚚,18,吕,臣吕
 鎳,18,金,臬
 闑,18,門,臬
 邊,18,辶,臱
@@ -17778,7 +17778,7 @@ Component,Strokes,LeftComponent,RightComponent
 瞻,18,目,詹
 襜,18,衤,詹
 藷,18,艹,諸
-雠,18,隹,讠
+雠,18,隹,讠隹
 豐,18,𠁳,豆
 鎧,18,金,豈
 闓,18,門,豈
@@ -17848,7 +17848,7 @@ Component,Strokes,LeftComponent,RightComponent
 醬,18,將,酉
 醫,18,殹,酉
 鯂,18,魚,酉
-鎣,18,炏,金
+鎣,18,炏冖,金
 鎜,18,般,金
 檭,18,木,銀
 繝,18,糹,閒
@@ -17865,7 +17865,7 @@ Component,Strokes,LeftComponent,RightComponent
 瀡,18,氵,隨
 雗,18,倝,隹
 雞,18,奚,隹
-瞿,18,目,隹
+瞿,18,目目,隹
 雛,18,芻,隹
 雝,18,邕,隹
 騅,18,馬,隹
@@ -17919,7 +17919,7 @@ Component,Strokes,LeftComponent,RightComponent
 闖,18,門,馬
 儯,18,亻,駦
 鎬,18,金,高
-鬵,18,旡,鬲
+鬵,18,旡旡,鬲
 鬶,18,规,鬲
 鎘,18,金,鬲
 魏,18,委,鬼
@@ -18014,7 +18014,7 @@ Component,Strokes,LeftComponent,RightComponent
 鎻,18,金,𧴲
 竵,18,立,𩰬
 櫜,19,櫜,*
-曡,19,晶,且
+曡,19,晶冖,且
 齛,19,齒,世
 鯙,19,魚,享
 鯨,19,魚,京
@@ -18290,8 +18290,8 @@ Component,Strokes,LeftComponent,RightComponent
 獸,19,嘼,犬
 贆,19,貝,猋
 璽,19,爾,玉
-瓣,19,辛,瓜
-甖,19,貝,瓦
+瓣,19,辛,瓜辛
+甖,19,貝貝,瓦
 齀,19,鼻,瓦
 鏟,19,金,産
 黼,19,黹,甫
@@ -18477,7 +18477,7 @@ Component,Strokes,LeftComponent,RightComponent
 繲,19,糹,解
 蠏,19,虫,解
 警,19,敬,言
-䜌,19,糸,言
+䜌,19,糸,言糸
 簷,19,竹,詹
 聸,19,耳,詹
 舚,19,舌,詹
@@ -18486,7 +18486,7 @@ Component,Strokes,LeftComponent,RightComponent
 蘐,19,艹,諼
 藹,19,艹,謁
 霭,19,雨,谒
-贊,19,先,貝
+贊,19,先先,貝
 贇,19,斌,貝
 贋,19,雁,貝
 鏆,19,金,貫
@@ -18633,7 +18633,7 @@ Component,Strokes,LeftComponent,RightComponent
 鵩,19,服,鳥
 鶇,19,東,鳥
 鵡,19,武,鳥
-鶑,19,火,鳥
+鶑,19,火火,鳥
 鶅,19,甾,鳥
 鵼,19,空,鳥
 鵳,19,肩,鳥
@@ -18711,7 +18711,7 @@ Component,Strokes,LeftComponent,RightComponent
 鰦,20,魚,兹
 鬑,20,髟,兼
 魐,20,鬼,兼
-疈,20,畐,刂
+疈,20,畐,刂畐
 鰂,20,魚,則
 鯻,20,魚,剌
 鐒,20,金,勞
@@ -18933,19 +18933,19 @@ Component,Strokes,LeftComponent,RightComponent
 鏻,20,金,粦
 鳞,20,鱼,粦
 瀵,20,氵,糞
-辮,20,辡,糸
+辮,20,辡,糸辡
 鐑,20,金,結
 蘰,20,艹,縵
 瀿,20,氵,繁
 蘩,20,艹,繁
 蘨,20,艹,繇
-罌,20,貝,缶
+罌,20,貝貝,缶
 嚹,20,口,罅
 矲,20,矢,罷
 襬,20,衤,罷
 瀱,20,氵,罽
 蘮,20,艹,罽
-譱,20,羊,言言
+譱,20,言,羊言
 饈,20,食,羞
 議,20,言,義
 轙,20,車,義
@@ -19071,7 +19071,7 @@ Component,Strokes,LeftComponent,RightComponent
 蘟,20,艹,隱
 霴,20,雲,隶
 髉,20,骨,隺
-矍,20,目,隻
+矍,20,目目,隻
 鏶,20,金,集
 觹,20,角,雋
 嚾,20,口,雚
@@ -19170,12 +19170,12 @@ Component,Strokes,LeftComponent,RightComponent
 鯼,20,魚,㚇
 繼,20,糹,㡭
 蠚,20,若,䖵
-嚴,20,口,𠪚
+嚴,20,口口,𠪚
 鰖,20,魚,𤯝
 譶,21,言,*
 贔,21,貝,*
 轟,21,車,*
-顨,21,頁,丌
+顨,21,頁頁,丌
 齩,21,齒,交
 鳣,21,鱼,亶
 鐱,21,金,僉
@@ -19363,8 +19363,8 @@ Component,Strokes,LeftComponent,RightComponent
 襯,21,衤,親
 觺,21,疑,角
 譽,21,與,言
-譻,21,貝,言
-辯,21,辡,言
+譻,21,貝貝,言
+辯,21,辡,言辡
 韂,21,革,詹
 蠩,21,虫,諸
 闦,21,門,豊
@@ -19394,7 +19394,7 @@ Component,Strokes,LeftComponent,RightComponent
 鐴,21,金,辟
 闢,21,門,辟
 霹,21,雨,辟
-欁,21,木,農
+欁,21,木,農木
 鰱,21,魚,連
 鐽,21,金,達
 闥,21,門,達
@@ -19436,8 +19436,8 @@ Component,Strokes,LeftComponent,RightComponent
 櫼,21,木,韱
 殲,21,歹,韱
 黯,21,黑,音
-嚻,21,吕,頁
-囂,21,吕,頁
+嚻,21,吕,頁吕
+囂,21,吕,頁吕
 顤,21,堯,頁
 顥,21,景,頁
 顦,21,焦,頁
@@ -19478,7 +19478,7 @@ Component,Strokes,LeftComponent,RightComponent
 鶸,21,弱,鳥
 鷃,21,晏,鳥
 鷅,21,栗,鳥
-鶯,21,炏,鳥
+鶯,21,炏冖,鳥
 鶹,21,留,鳥
 鷎,21,皋,鳥
 鷁,21,益,鳥
@@ -19526,7 +19526,7 @@ Component,Strokes,LeftComponent,RightComponent
 囍,22,喜,*
 囊,22,囊,*
 竸,22,竟,*
-疊,22,畾,且
+疊,22,畾冖,且
 饘,22,食,亶
 龔,22,龍,共
 髝,22,高,勞
@@ -19704,7 +19704,7 @@ Component,Strokes,LeftComponent,RightComponent
 籧,22,竹,遽
 躑,22,足,鄭
 蘸,22,艹,醮
-鑍,22,貝,金
+鑍,22,貝貝,金
 鑋,22,輕,金
 籛,22,竹,錢
 籙,22,竹,録
@@ -19819,7 +19819,7 @@ Component,Strokes,LeftComponent,RightComponent
 巖,23,山,嚴
 巗,23,山,嚴
 玁,23,犭,嚴
-壨,23,畕,土
+壨,23,畕畕,土
 鱙,23,魚,堯
 齮,23,齒,奇
 鼷,23,鼠,奚
@@ -19909,13 +19909,13 @@ Component,Strokes,LeftComponent,RightComponent
 灚,23,氵,覺
 讆,23,衛,言
 讏,23,衞,言
-讎,23,隹,言
+讎,23,隹,言隹
 讐,23,雔,言
 讋,23,龍,言
 體,23,骨,豊
 鱌,23,魚,象
 霾,23,雨,貍
-贙,23,虎,貝
+贙,23,虎虎,貝
 鱝,23,魚,賁
 黂,23,麻,賁
 馪,23,香,賓
@@ -19999,7 +19999,7 @@ Component,Strokes,LeftComponent,RightComponent
 蠯,23,庳,䖵
 蠭,23,逢,䖵
 覉,23,覀,䩭
-欎,23,棥,𡬠
+欎,23,棥冖,𡬠
 驖,23,馬,𢧜
 矗,24,直,*
 鑫,24,金,*
@@ -20044,7 +20044,7 @@ Component,Strokes,LeftComponent,RightComponent
 鑪,24,金,盧
 矕,24,䜌,目
 鱞,24,魚,睘
-衢,24,彳,瞿
+衢,24,彳,瞿彳
 蠷,24,虫,瞿
 欔,24,木,矍
 齲,24,齒,禹
@@ -20216,7 +20216,7 @@ Component,Strokes,LeftComponent,RightComponent
 鸐,25,翟,鳥
 鸒,25,與,鳥
 鸏,25,蒙,鳥
-鸎,25,貝,鳥
+鸎,25,貝貝,鳥
 籭,25,竹,麗
 纚,25,糹,麗
 矘,25,目,黨
@@ -20344,7 +20344,7 @@ Component,Strokes,LeftComponent,RightComponent
 钂,28,金,黨
 钃,29,金,屬
 纞,29,糹,戀
-讟,29,言,賣
+讟,29,言,賣言
 虋,29,艹,釁
 鸜,29,瞿,鳥
 靏,29,雨,鶴
