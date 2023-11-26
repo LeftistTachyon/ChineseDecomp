@@ -15,6 +15,8 @@
   "dependencies": {
     "csv": "^6.3.5",
     "jsdom": "^22.1.0",
-    "node-opencc": "^2.0.1"
+    "node-opencc": "^2.0.1",
+    "tokenizers": "^0.13.3",
+    "tokenizers-win32-x64-msvc": "^0.13.4-rc1"
   }
 }
