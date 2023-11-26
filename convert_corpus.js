@@ -1,16 +1,5 @@
 const fs = require("fs");
 const readline = require("readline");
-const {
-  bertNormalizer,
-  sequenceNormalizer,
-  replace,
-  stripNormalizer,
-} = require("tokenizers");
-const fullTable = require("./table2_fix.json");
-const veriTable = require("./table_fix.json");
-
-const full = process.argv[2]?.toUpperCase() == "TRUE" || false;
-console.log(full ? "for complete table" : "for verified table");
 
 process.stdout.write("preparing files... ");
 const input = fs.createReadStream("baidubaike_corpus.txt", {
@@ -21,31 +10,22 @@ const inStream = readline.createInterface({
   input,
   crlfDelay: Infinity,
 });
-fs.unlinkSync("baiducorpus_conv.txt");
-// const output = fs.createWriteStream("baiducorpus_conv.txt", {
+if (fs.existsSync("baiducorpus_conv.jsonl"))
+  fs.unlinkSync("baiducorpus_conv.jsonl");
+// const output = fs.createWriteStream("baiducorpus_conv.jsonl", {
 //   encoding: "utf8",
 //   fd: null,
 // });
-process.stdout.write("done\n");
-
-process.stdout.write("making normalizer... ");
-const table = full ? fullTable : veriTable;
-const custNorm = sequenceNormalizer([
-  bertNormalizer(),
-  Object.entries(table).map(([key, value]) => replace(key, value)),
-  stripNormalizer(),
-  replace("\\s+", " "),
-]);
 process.stdout.write("done\n");
 
 process.stdout.write("converting... ");
 let idx = 0;
 inStream.on("line", (line) => {
   fs.appendFileSync(
-    "baiducorpus_conv.txt",
-    custNorm.normalizeString(line) + "\n"
+    "baiducorpus_conv.jsonl",
+    JSON.stringify({ text: line.trim() }) + "\n"
   );
-  if (idx % 100 === 0) console.log(`completed #${idx}`);
+  if (++idx % 1_000 === 0) console.log(`completed #${idx}`);
 });
 // input.on("line", () => {
 //   let chunk;
